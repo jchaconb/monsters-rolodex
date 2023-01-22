@@ -1,3 +1,10 @@
+### Udemy Course: 
+- [Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/30577128#overview) 
+
+![image](https://user-images.githubusercontent.com/4983144/213929769-8919fd37-ff78-4a26-94b5-57341e8d88d9.png)
+
+------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
